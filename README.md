@@ -1,2 +1,2 @@
-# Embedded project(calculator,Timer,Stopwatch)
+implementation od xcalculator, timer and stopwatch using Tiva c
  
